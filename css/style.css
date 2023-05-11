@@ -1,0 +1,12 @@
+.wraper {
+	width: 100%;
+}
+.congrat{
+	display: none;
+}
+.congrat.active {
+	display: block;
+	margin: 0 auto;
+	font-size: 50px;
+	color: red;
+}
